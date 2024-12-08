@@ -1,6 +1,6 @@
 {
   "name": "kifiya",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Kifya SDK for nodejs In Ethiopia",
   "main": "index.js",
   "type": "module",
