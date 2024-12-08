@@ -1,10 +1,1 @@
-export class Kifiya {
-  constructor({ secretKey }) {
-    this.secretKey = secretKey;
-  }
-
-  makePayment(amount) {
-    return { message: "Success" };
-  }
-}
-
+export { fakeApi } from "./fake-api";
